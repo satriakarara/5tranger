@@ -1,4 +1,5 @@
 # 5tranger
+Screenshot:
 ![Screenshot (215)](https://user-images.githubusercontent.com/58617427/159854941-b211852d-7e4c-4ef0-ad0c-f4240d21e9c4.png)
 ![Screenshot (214)](https://user-images.githubusercontent.com/58617427/159854960-a59b0434-f12e-44d8-9a83-918fc36c86b7.png)
 
